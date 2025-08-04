@@ -2,10 +2,13 @@
 
 **Project Source:** [roadmap.sh - Datepicker UI](https://roadmap.sh/projects/datepicker-ui)
 
-** 🔙 Back to Projects
+<div align="center">
+
+🔙 Back to Projects
 
 [← Back to Web Roadmap Projects](https://github.com/YounesMoukhlij/web-roadmap-projects)
 
+</div>
 
 ## Overview
 
