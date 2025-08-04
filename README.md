@@ -8,15 +8,7 @@ The goal of this project is to help you practice positioning, layout, and stylin
 
 ## Design Requirements
 
-![Datepicker UI Mockup](datepicker-mockup.png)
-
-The datepicker should include:
-- A simple input field with placeholder text "dd / mm / yyyy"
-- A calendar icon button
-- An absolutely positioned calendar dropdown showing:
-  - Month navigation (December 2022 in the example)
-  - Days of the week header (S M T W T F S)
-  - Calendar grid with dates
+![Datepicker UI Mockup](./assets/datepicker-ui.png)
 
 ## Key Features
 
